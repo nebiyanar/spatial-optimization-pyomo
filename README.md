@@ -30,7 +30,7 @@ Proje iki ana veri kaynağı üzerinden beslenmektedir:
 
 Model çalıştırıldığında, Berlin'in stratejik noktalarında birbirine 10 km'den uzak 5 optimal nokta üretir. Aşağıdaki görselde yeşil bölgeler talep yoğunluğunu, mavi noktalar mevcut istasyonları, **kırmızı yıldızlar** ise modelin önerdiği yeni lokasyonları temsil etmektedir.
 
-![Optimizasyon Sonucu](sonuc.png)
+
 
 ## 💻 Kurulum ve Çalıştırma
 
